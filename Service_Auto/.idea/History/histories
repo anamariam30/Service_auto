@@ -1,0 +1,7 @@
+ Car: 123 123 123 123123 Owner: firstName='123, lastName='123, phoneNumber='123 Details: Repairs: car=123, dateOfIntrance=2020-01-16, dateofExit=2020-01-16, statusOfReparation=ready, price=1205.0, diagnostic= qwe
+ Car: 123  Owner: firstName='123, lastName='123, phoneNumber='123 Details: Repairs: car=123, dateOfIntrance=2020-01-16, dateofExit=2020-01-16, statusOfReparation=ready, price=123.0, diagnostic= null
+ Car: 123123  Owner: firstName='123, lastName='123, phoneNumber='123 Details: Repairs: car=123123, dateOfIntrance=2020-01-16, dateofExit=2020-01-16, statusOfReparation=ready, price=1452.0, diagnostic= null
+ Car: 123  Owner: firstName='1231, lastName='12312, phoneNumber='132 Details: Repairs: car=123, dateOfIntrance=2020-01-16, dateofExit=2020-01-16, statusOfReparation=ready, price=140.0, diagnostic= null
+ Car: 123  Owner: firstName='123, lastName='123, phoneNumber='123 Details: Repairs: car=123, dateOfIntrance=2020-01-18, dateofExit=2020-01-18, statusOfReparation=ready, price=1231.0, diagnostic= 1231
+ Car: 12  Owner: firstName='123, lastName='123, phoneNumber='123 Details: Repairs: car=12, dateOfIntrance=2020-01-19, dateofExit=2020-01-19, statusOfReparation=ready, price=123.0, diagnostic= 1238897
+ Car: SV.09.ADC  Owner: firstName='asdad, lastName='asdasd, phoneNumber='123213213 Details: Repairs: car=SV.09.ADC, dateOfIntrance=2020-12-21, dateofExit=2020-12-21, statusOfReparation=ready, price=123.0, diagnostic= adfsadf
